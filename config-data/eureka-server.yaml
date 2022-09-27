@@ -1,0 +1,3 @@
+server:
+  port: 8761
+message: Servidor de configuracion para Registry / Discovery 

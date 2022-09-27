@@ -1,0 +1,4 @@
+server:
+  port: 9092
+application:
+  name: Configuracion para ambiente de produccion de Creditos
