@@ -1,4 +1,4 @@
 server:
-  port: 8085
+  port: 8082
 application: 
   name: configuracion para ambiente de producion micro empleado
